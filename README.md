@@ -8,6 +8,9 @@ While there is an options available, it is either sometimes unreliable, making i
 Stack:
 Spring boot - React
 
+Figma link:
+https://www.figma.com/file/tTMs1dabxZHMgPRncTlcgy/Handi.ee?type=design&node-id=0%3A1&t=C1T3JrO0PYPk1w4t-1
+
 Trello board:
 https://trello.com/invite/b/DG9u0Zgo/ATTIa816caae9cf6a4d64e3b841dfd9fa6eb21D379DE/handy-man
 
